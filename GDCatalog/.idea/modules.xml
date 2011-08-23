@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GDCatalog.iml" filepath="$PROJECT_DIR$/GDCatalog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GreenDroid/GreenDroid.iml" filepath="$PROJECT_DIR$/../GreenDroid/GreenDroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GreenDroid-GoogleAPIs/GreenDroid-GoogleAPIs.iml" filepath="$PROJECT_DIR$/../GreenDroid-GoogleAPIs/GreenDroid-GoogleAPIs.iml" />
+    </modules>
+  </component>
+</project>
+
